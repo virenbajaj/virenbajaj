@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 🔭  I'm currently working on building a machine-learning platform for CVS Health. 
 My team is:
-  - defining workflows for batch and online use cases that are scalable, cost-efficient, observable, and (often) explainable
-  - developing tools that make it simple for engineers to build and deploy those workflows on the cloud (GCP)
+  - Defining workflows for batch and online use cases that are scalable, cost-efficient, observable, and explainable
+  - Developing tools that make it simple for engineers to build and deploy those workflows on the cloud (GCP)
 
 🌱 I’m currently learning about:
   - ML Platforms, MLOps, and LLMOps
-  - product management
+  - Product management
     
 
     
